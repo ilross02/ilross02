@@ -1,4 +1,4 @@
-### Hi there 👋
+![mynet_230923](https://github.com/ilross02/ilross02/assets/85498763/f0383644-a8f5-4de2-9951-cb5dd44f018c)
 
 <!--
 **ilross02/ilross02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
