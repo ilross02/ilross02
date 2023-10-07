@@ -1,7 +1,10 @@
-<img src="https://github.com/ilross02/ilross02/assets/85498763/e249d825-c5a3-41d2-baa1-3cb6990de010" width=40%>
+<a href="https://www.speedtest.net/result/d/e60353ef-86da-409a-9e35-fb6cde6af2d7"><img src="https://www.speedtest.net/result/d/e60353ef-86da-409a-9e35-fb6cde6af2d7.png" width=40%/></a>
+<br>⚡ | **Mynet Home FTTH GPON**
 
-⚡ | Mynet Home FTTH GPON
-
+<br>🔧 | *2.5G ready CAT6A Mesh*
+<br>🔧 | *ZyXEL 8xGbE managed LAN switch*
+<br>🔧 | *FRITZ!Box 7590 main*
+<br>🔧 | *2x FRITZ!Box 7490 + 7530 APs*
 <!--
 **ilross02/ilross02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
